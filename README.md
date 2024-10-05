@@ -1,6 +1,6 @@
 # My Neovim Settings
 
-Make a backup of your current Neovim files.
+Make a backup of your current Neovim files!!![^1]
 
 ```sh
 mv ~/.config/nvim ~/.config/nvim.bak
@@ -15,3 +15,6 @@ cd ~/.config/nvim
 git checkout lazy
 ```
 
+---
+
+[^1]: [https://stackoverflow.com/questions/77510936/neovim-module-lazy-not-found](https://stackoverflow.com/questions/77510936/neovim-module-lazy-not-found)
